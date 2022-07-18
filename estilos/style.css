@@ -54,6 +54,10 @@ header>p {
     font-size: 1.2em;
     max-width: 500px;
     margin:auto
+
+}
+header>p {
+    padding-bottom: 0px;
 }
 
 header {
