@@ -56,9 +56,7 @@ header>p {
     margin:auto
 
 }
-header>p {
-    padding-bottom: 40px;
-}
+
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
